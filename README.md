@@ -10,7 +10,7 @@
 
 让这个库帮你解决掉这些烦恼!
 
-![演示视频](https://raw.githubusercontent.com/Angelic47/LibSpritesGUI_12864/main/static/demo.mp4)
+演示视频位于static/demo.mp4
 
 #它可以做什么?
 
