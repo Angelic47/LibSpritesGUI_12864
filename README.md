@@ -10,7 +10,9 @@
 
 让这个库帮你解决掉这些烦恼!
 
-演示视频位于static/demo.mp4
+![image](static/image.png)
+
+(演示视频位于static/demo.mp4)
 
 # 它可以做什么?
 
